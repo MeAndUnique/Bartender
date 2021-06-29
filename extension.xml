@@ -27,13 +27,9 @@ SOFTWARE.www.flaticon.com
 <root release="3.0" version="3">
 	<properties>
 		<name>Feature: Bartender</name>
-		<version>1.0</version>
+		<version>1.0.1</version>
 		<author>MeAndUnique</author>
 		<description>Adds hotkey bar quality of life improvements.</description>
-		
-		<ruleset>
-			<name>CoreRPG</name>
-		</ruleset>
 	</properties>
 
 	<base>
@@ -42,6 +38,6 @@ SOFTWARE.www.flaticon.com
 		<icon name="Bartender_icon" file="graphics/icons/Bartender.png" />
 	</base>
 
-	<announcement text="Bartender v1.0 by MeAndUnique." icon="Bartender_icon" font="emotefont" />
+	<announcement text="Bartender v1.0.1 by MeAndUnique." icon="Bartender_icon" font="emotefont" />
 
 </root>
